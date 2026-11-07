@@ -1,10 +1,4 @@
-/**
- * You can edit, run, and share this code.
- * play.kotlinlang.org
- */
-fun main() {
-    println("Hello, world!!!")
-}package com.example.mydailyroutine
+package com.example.mydailyroutine
 
 import android.Manifest
 import android.app.*
